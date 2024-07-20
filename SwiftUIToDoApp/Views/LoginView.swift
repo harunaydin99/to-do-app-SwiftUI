@@ -18,7 +18,7 @@ struct LoginView: View {
         NavigationStack{  // sayfalar arası geçiş olacağı içinn
             VStack{
                  
-                // Header
+                // Header view
                 HeaderView()
                 // Form- email şifre
                 
